@@ -1,5 +1,5 @@
 [EN]
-This project explores basic aerodynmic forces acting on an aircraft using MATLAB. 
+This project explores basic aerodynamic forces acting on an aircraft using MATLAB. 
 
 In straight-and-level, four main forces act on an aircraft : Thrust, Weight, Drag and Lift. 
 They are defined as follows : 
