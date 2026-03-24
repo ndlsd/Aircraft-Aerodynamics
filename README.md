@@ -10,4 +10,6 @@ They are defined as follows :
 
 To resume, Lift and Weight act in the vertical direction and determine whether the aircraft can stay in the air, while Thrust and Drag act in the horizontal direction and determine the aircraft's speed.
 
-
+We're going to use two aerodynamic equations : Lift and Drag. These equations depend on the airfoil. 
+The weight is simply mass * gravity. 
+And, the thrust is a variable that depends of the engines, so it's a value provided by the OEM. 
